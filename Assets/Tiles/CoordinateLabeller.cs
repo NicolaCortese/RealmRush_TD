@@ -20,7 +20,7 @@ public class CoordinateLabeller : MonoBehaviour
         
         DisplayCoord();
         UpdateObjectName();
-        label.enabled = false;
+        label.enabled = true;
     }
     
     void Update()
