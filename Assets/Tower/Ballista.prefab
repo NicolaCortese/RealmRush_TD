@@ -62,6 +62,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   towerCost: 25
+  towerDelay: 1
 --- !u!1 &6080165665635347315
 GameObject:
   m_ObjectHideFlags: 0
